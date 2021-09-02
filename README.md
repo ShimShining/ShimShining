@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShimShining
 - 👀 I’m interested in coding,swimming,running
-- 🌱 I’m currently learning SDET
+- 🌱 I’m currently learning SDET、go
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 
