@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShimShining
+- 👋 Hi, I’m @shimshining
 - 👀 I’m interested in coding,swimming,running
 - 🌱 I’m currently learning SDET、go
 - 💞️ I’m looking to collaborate on ...
